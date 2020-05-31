@@ -1,6 +1,4 @@
-# flutterstackeditemlist
-
-A new Flutter application.
+# Flutter Item Stack ListView
 
 ## Getting Started
 
